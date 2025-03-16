@@ -4,6 +4,7 @@
  * Best results achieved when compiled at 125MHz, optimizations disabled
  */
 
+// TODO: determine if Keyboard.h or USB protocol is responsible for very slight drift over time; verify 1000hz operation
 #include <Keyboard.h>
 #include "pico/stdlib.h"
 
