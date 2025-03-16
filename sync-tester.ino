@@ -1,3 +1,7 @@
+// THIS IS ALMOST USABLE, BUT STILL DRIFTS BY ABOUT 1MS EVERY FEW MINUTES, HAVEN'T RESOLVED YET
+
+
+
 /*
  * Sync tester for Raspberry Pi Pico / RP2040
  * Uses a simple loop to trigger a keypress every 250ms, which is equivalent to 4Hz (240bpm in 4/4).
